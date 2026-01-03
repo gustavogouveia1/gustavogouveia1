@@ -2,29 +2,11 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Gustavo+Gouveia;Full-Stack+Developer;Tech+Enthusiast;Always+Learning+%F0%9F%A4%A1" alt="Typing SVG" />
 
-</div>
-
-<div align="center">
-  <a href="https://github.com/gustavogouveia1">
-    <img src="https://img.shields.io/github/followers/gustavogouveia1?label=Followers&style=social" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/gustavogouveia1/gustavogouveia1">
-    <img src="https://img.shields.io/github/stars/gustavogouveia1?color=007ACC&label=Stars" alt="Stars" />
-  </a>
-  <a href="https://github.com/gustavogouveia1?tab=repositories">
-    <img src="https://img.shields.io/github/repo-size/gustavogouveia1?color=007ACC&label=Repo%20Size" alt="Repo size" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img height='180em' src='https://github-readme-stats-eight.vercel.app/api?username=gustavogouveia1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true'/>
-  <img height='180em' src='https://github-readme-stats-eight.vercel.app/api/top-langs/?username=gustavogouveia1&layout=compact&langs_count=7&theme=radical&hide_border=true'/>
-</div>
-
-<div align="center" style="padding: 1rem">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavogouveia1&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/⭐%20Stars-0-silver?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/📊%20Commits-0-blue?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌐%20Languages-10-green?style=for-the-badge&logo=dev.to&logoColor=white" />
 </div>
 
 ---
@@ -47,27 +29,16 @@
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS"/>
-</div>
-
-### 🖥️ Backend
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-</div>
-
-### 🗄️ Banco de Dados & DevOps
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
@@ -75,11 +46,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Projetos em Destaque
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gustavogouveia1&show_icons=true&theme=github_dark&ring=007ACC&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=gustavogouveia1&theme=github_dark&ring=007ACC&hide_border=true" />
+  
+| Projeto | Descrição | Tech |
+|---------|-----------|------|
+| **[Portfolio](https://github.com/gustavogouveia1?tab=repositories)** | Meu portfólio pessoal | React + TypeScript |
+| **[API Laravel](https://github.com/gustavogouveia1?tab=repositories)** | API RESTful completa | Laravel + MySQL |
+| **[E-commerce](https://github.com/gustavogouveia1?tab=repositories)** | Loja virtual moderna | PHP + JavaScript |
+
+*Clique nos links para ver os repositórios!*
+
 </div>
 
 ---
@@ -105,5 +83,5 @@
 </div>
 
 <div align="center">
-  <sub>Feito com ❤️ por Gustavo Gouveia</sub>
+  <sub><b>Feito com ❤️ por Gustavo Gouveia</b> | 2026</sub>
 </div>
