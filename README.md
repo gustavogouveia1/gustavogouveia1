@@ -6,7 +6,7 @@
   
   <img src="https://img.shields.io/badge/⭐%20Stars-0-silver?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/📊%20Commits-0-blue?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/🌐%20Languages-10-green?style=for-the-badge&logo=dev.to&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌐%20Languages-11-green?style=for-the-badge&logo=dev.to&logoColor=white" />
 </div>
 
 ---
@@ -17,6 +17,9 @@
   
 **Desenvolvedor Full-Stack apaixonado por tecnologia e aprendizado contínuo.**
   
+🎓 **Formado em Análise e Desenvolvimento de Sistemas**  
+**Centro Universitário Internacional - Uninter**
+
 - 🔭 Atualmente trabalhando com **Laravel**, **React** e **Node.js**
 - 🌱 Aprendendo **Next.js**, **Docker** e **AWS**
 - 👯 Aberto para colaborações em projetos open-source
